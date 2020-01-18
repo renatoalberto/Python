@@ -1,2 +1,2 @@
 # Python
-Curso de programaçã em Phyton - Do básico ao avançado
+Curso de programação em Phyton - Do básico ao avançado

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="" />
+    <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/32_any_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_min_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36_reversed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37_len_abs_sum_round.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38_zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_collectios_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_collections_counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VfZv0HAAu5rdhhcOxvxqJIwAiX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,8 +42,8 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil.dic" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
-  <component name="RunManager" selected="Python.31_reduce">
-    <configuration name="07_tipo_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.33_generators">
+    <configuration name="33_generators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_tipo_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33_generators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_estruturas_logicas_and_or_not_is" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="34_sorted" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_estruturas_logicas_and_or_not_is.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_sorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11_loop_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="36_reversed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_loop_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/36_reversed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24_funcoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="37_len_abs_sum_round" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_funcoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37_len_abs_sum_round.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="31_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="38_zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31_reduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/38_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.31_reduce" />
-        <item itemvalue="Python.24_funcoes" />
-        <item itemvalue="Python.11_loop_for" />
-        <item itemvalue="Python.10_estruturas_logicas_and_or_not_is" />
-        <item itemvalue="Python.07_tipo_string" />
+        <item itemvalue="Python.33_generators" />
+        <item itemvalue="Python.38_zip" />
+        <item itemvalue="Python.37_len_abs_sum_round" />
+        <item itemvalue="Python.36_reversed" />
+        <item itemvalue="Python.34_sorted" />
       </list>
     </recent_temporary>
   </component>
@@ -176,22 +193,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577713308155" />
-    <state width="1515" height="150" key="GridCell.Tab.0.bottom" timestamp="1578919771321">
+    <state width="1515" height="150" key="GridCell.Tab.0.bottom" timestamp="1579370682659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578919771321" />
-    <state width="1515" height="150" key="GridCell.Tab.0.center" timestamp="1578919771320">
+    <state width="1515" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579370682659" />
+    <state width="1515" height="150" key="GridCell.Tab.0.center" timestamp="1579370682659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578919771320" />
-    <state width="1515" height="150" key="GridCell.Tab.0.left" timestamp="1578919771320">
+    <state width="1515" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579370682659" />
+    <state width="1515" height="150" key="GridCell.Tab.0.left" timestamp="1579370682658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578919771320" />
-    <state width="1515" height="150" key="GridCell.Tab.0.right" timestamp="1578919771320">
+    <state width="1515" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579370682658" />
+    <state width="1515" height="150" key="GridCell.Tab.0.right" timestamp="1579370682659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578919771320" />
+    <state width="1515" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579370682659" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1577713317280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
