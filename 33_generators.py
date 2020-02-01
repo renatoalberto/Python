@@ -23,7 +23,7 @@ res = [nome[0] == 'C' for nome in nomes]  # Possui colchete - portanto list comp
 print(res)
 print(type(res))
 print(tuple(res))
-print(tuple(res))
+print(set(res))
 
 # Poderiamos ter feito com Comprehension
 print('Generator')
