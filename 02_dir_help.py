@@ -1,7 +1,7 @@
 """
 utilitários Python para auxiliar na programação (Dir e Help)
 
-dir  -> Apresenta todos os atributos e funções/metodos disponíveis para determinado tipo de dado ou variável.
+dir  -> Apresenta todos os atributos e funções/métodos disponíveis para determinado tipo de dado ou variável.
 
     dir("Geek University")
 

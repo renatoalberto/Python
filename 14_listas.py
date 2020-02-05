@@ -1,6 +1,6 @@
 """"
 Listas (list)
-- funcionam como vetores/matrizes (arrays), com a diferença de serem DINÂMICO e
+- funcionam como vetores/matrizes (arrays), com a diferença de serem DINÂMICOS e
   também permitir colocar QUALQUER tipo de dado.
 
 Dinâmico: Porque não possui tamanho fixo, podemos criar a lista e simplesmente ir acrescentando valores.
@@ -196,7 +196,7 @@ print('List Comprehension')
 ([[print(valor) for valor in lista_auxiliar] for lista_auxiliar in lista])
 
 # Gerando um tabuleiro 3X3 - Muito Pythonico
-tabuleiro = [[coluna for coluna in range(1, 4)] for linha in range(1, 4)]
+tabuleiro = [[f'{linha}x{coluna}' for coluna in range(1, 4)] for linha in range(1, 4)]
 print(tabuleiro)
 
 # Gerando um jogo da velha
