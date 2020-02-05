@@ -5,7 +5,7 @@ O que são decorators?
  - Decorator Functions são funções
  - Decorators também são exemplos de Higher Order Function
  - Decorators envolve outras funções e aprimoram seus comportamentos
- - Decorators tem um sintaxe própria, usando "@" (Syntactic Sugar - para facilitar a visualização)
+ - Decorators tem uma sintaxe própria, usando "@" (Syntactic Sugar - para facilitar a visualização)
 
 OBS: não confunda "decorator function" com "decorator"
 """

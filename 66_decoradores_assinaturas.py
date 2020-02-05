@@ -1,7 +1,7 @@
 """
 Decorators com diferentes assinaturas
 
-Assinatura assinatura de uma função é representado pelo seu retorno, nome ou parâmetros de entrada
+Assinatura de uma função é representada pelo seu retorno, nome ou parâmetros de entrada
 
 Padrão de Projeto - Decorator Pattern (*args, **kwargs)
 """

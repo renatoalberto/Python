@@ -1,7 +1,7 @@
 """
 Preservando Metadados com Wraps
 
-Metadados - são dados intrínseco e, arquivos
+Metadados - são dados intrínseco em arquivos
 
 Wraps     - são funções que envolvem elementos com diversas finalidade
 """

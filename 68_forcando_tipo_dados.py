@@ -12,10 +12,12 @@ def forca_tipo(*tipos):
     def decorador(funcao):
         def converter(*args, **kwargs):
             novo_args = []
-            for(valor, tipo) in zip(args, tipos):
-                # print(f'retorno zip - ({valor}, {tipo})')  # (Geek, <class 'str'>), (3, <class 'int'>)
-                novo_args.append(tipo(valor))
-            return funcao(*novo_args, **kwargs)
+            try:
+                for (valor, tipo) in zip(args, tipos):
+                    novo_args.append(tipo(valor))
+                return funcao(*novo_args, **kwargs)
+            except ValueError:
+                print(f'Não foi possível converter {valor} para {tipo}')
         return converter
     return decorador
 
@@ -31,6 +33,8 @@ def dividir(a, b):
 
 
 repete_msg('Geek', '3')  # Aqui mesmo passando uma string 3, o loop consegue ser executado
+repete_msg('Geek', 3.5)  # Aqui mesmo passando um float, o loop consegue ser executado
 
-dividir(6, 3)      # aqui passando inteiros, o retorno é float
-dividir('6', '3')  # aqui passando string, a função não retorna erro
+dividir(6, 3)         # aqui passando inteiros, o retorno é float
+dividir('6', '3')     # aqui passando string, a função não retorna erro
+dividir('renato', 2)  # Aqui passando uma string, o decorator realizou uma validação, retornando uma mensagem
