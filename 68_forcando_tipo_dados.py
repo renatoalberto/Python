@@ -17,7 +17,7 @@ def forca_tipo(*tipos):
                     novo_args.append(tipo(valor))
                 return funcao(*novo_args, **kwargs)
             except ValueError:
-                print(f'Não foi possível converter {valor} para {tipo}')
+                print(f'Não foi possível converter "{valor}" do tipo {type(valor)} para {tipo}')
         return converter
     return decorador
 
@@ -38,3 +38,4 @@ repete_msg('Geek', 3.5)  # Aqui mesmo passando um float, o loop consegue ser exe
 dividir(6, 3)         # aqui passando inteiros, o retorno é float
 dividir('6', '3')     # aqui passando string, a função não retorna erro
 dividir('renato', 2)  # Aqui passando uma string, o decorator realizou uma validação, retornando uma mensagem
+dividir(5, 'Nick')    # Aqui passando uma string, o decorator realizou uma validação, retornando uma mensagem'
