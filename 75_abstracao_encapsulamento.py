@@ -1,7 +1,7 @@
 """
 POO - Abstração e Encapsulamento
 
-O grande objetivo da POO é encapsular o código nosso código dentro de um grupo lógico e hierárquico utilizando classes.
+O grande objetivo da POO é encapsular o nosso código dentro de um grupo lógico e hierárquico utilizando classes.
 
 Encapsular - com as classes é possível encapsular, englobar, nosso atributos e métodos, de forma agrupada, organizada,
              dentro de um grupo lógico e hierárquico.

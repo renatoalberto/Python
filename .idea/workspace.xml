@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/70_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/71_atributos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/72_metodos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/73_objetos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/74_abstracao_encapsulamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programacao_orientada_objeto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/76_heranca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/77_propriedades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/78_super.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/79_heranca_multipla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/80_method_resolution_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/81_polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/82_metodos_magicos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/68_forcando_tipo_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/68_forcando_tipo_dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcoes_com_parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/69_funcoes_com_parametros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/71_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/71_atributos.py" beforeDir="false" afterPath="$PROJECT_DIR$/72_atributos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/72_metodos.py" beforeDir="false" afterPath="$PROJECT_DIR$/73_metodos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/73_objetos.py" beforeDir="false" afterPath="$PROJECT_DIR$/74_objetos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/74_abstracao_encapsulamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/75_abstracao_encapsulamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programacao_orientada_objeto.py" beforeDir="false" afterPath="$PROJECT_DIR$/70_programacao_orientada_objeto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +51,8 @@
       <recent name="C:\Users\renat\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.74_abstracao_encapsulamento">
-    <configuration name="70_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.82_metodos_magicos">
+    <configuration name="78_super" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/70_classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/78_super.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="71_atributos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="79_heranca_multipla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/71_atributos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/79_heranca_multipla.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="72_metodos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="80_method_resolution_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/72_metodos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/80_method_resolution_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="73_objetos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="81_polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/73_objetos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/81_polimorfismo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="74_abstracao_encapsulamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="82_metodos_magicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/74_abstracao_encapsulamento.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/82_metodos_magicos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.74_abstracao_encapsulamento" />
-        <item itemvalue="Python.73_objetos" />
-        <item itemvalue="Python.72_metodos" />
-        <item itemvalue="Python.71_atributos" />
-        <item itemvalue="Python.70_classes" />
+        <item itemvalue="Python.82_metodos_magicos" />
+        <item itemvalue="Python.81_polimorfismo" />
+        <item itemvalue="Python.80_method_resolution_order" />
+        <item itemvalue="Python.79_heranca_multipla" />
+        <item itemvalue="Python.78_super" />
       </list>
     </recent_temporary>
   </component>
@@ -224,38 +229,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577713308155" />
-    <state width="1515" height="207" key="GridCell.Tab.0.bottom" timestamp="1581140152362">
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom" timestamp="1581433078377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581140152362" />
-    <state width="1515" height="207" key="GridCell.Tab.0.center" timestamp="1581140152361">
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581433078377" />
+    <state width="1515" height="228" key="GridCell.Tab.0.center" timestamp="1581433078377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581140152361" />
-    <state width="1515" height="207" key="GridCell.Tab.0.left" timestamp="1581140152360">
+    <state width="1515" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581433078377" />
+    <state width="1515" height="228" key="GridCell.Tab.0.left" timestamp="1581433078377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581140152360" />
-    <state width="1515" height="207" key="GridCell.Tab.0.right" timestamp="1581140152361">
+    <state width="1515" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581433078377" />
+    <state width="1515" height="228" key="GridCell.Tab.0.right" timestamp="1581433078377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581140152361" />
-    <state width="1515" height="156" key="GridCell.Tab.1.bottom" timestamp="1580781407559">
+    <state width="1515" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581433078377" />
+    <state width="1515" height="156" key="GridCell.Tab.1.bottom" timestamp="1581426113053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580781407559" />
-    <state width="1515" height="156" key="GridCell.Tab.1.center" timestamp="1580781407559">
+    <state width="1515" height="156" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
+    <state width="1515" height="156" key="GridCell.Tab.1.center" timestamp="1581426113053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580781407559" />
-    <state width="1515" height="156" key="GridCell.Tab.1.left" timestamp="1580781407559">
+    <state width="1515" height="156" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
+    <state width="1515" height="156" key="GridCell.Tab.1.left" timestamp="1581426113053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580781407559" />
-    <state width="1515" height="156" key="GridCell.Tab.1.right" timestamp="1580781407559">
+    <state width="1515" height="156" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
+    <state width="1515" height="156" key="GridCell.Tab.1.right" timestamp="1581426113053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580781407559" />
+    <state width="1515" height="156" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1577713317280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -264,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577646364813" />
-    <state x="440" y="23" width="656" height="777" key="find.popup" timestamp="1580994057650">
+    <state x="440" y="23" width="802" height="777" key="find.popup" timestamp="1581424010437">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="440" y="23" width="656" height="777" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580994057650" />
+    <state x="440" y="23" width="802" height="777" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581424010437" />
     <state x="510" y="57" key="refactoring.ChangeSignatureDialog" timestamp="1579685906923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -278,9 +283,18 @@
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580993660946" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/78_super.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="valor1 / valor2" />
+        <watch expression="valor1 / valor2" language="Python" />
       </configuration>
     </watches-manager>
   </component>
