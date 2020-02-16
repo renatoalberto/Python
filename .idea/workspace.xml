@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/83_lendo_arq_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/84_escrevendo_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/85_pickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/86_json_pickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/felix.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutadores.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/87_manipulando_data_hora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88_trabalhando_delta_data_hora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/89_metodos_data_hora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/89_traducao_texto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/felix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmes.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,91 +46,7 @@
       <recent name="C:\Users\renat\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.86_json_pickle">
-    <configuration name="82_metodos_magicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/82_metodos_magicos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="83_lendo_arq_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/83_lendo_arq_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="84_escrevendo_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/84_escrevendo_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="85_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/85_pickle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.89_metodos_data_hora">
     <configuration name="86_json_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +68,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="87_manipulando_data_hora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/87_manipulando_data_hora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="88_trabalhando_delta_data_hora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/88_trabalhando_delta_data_hora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="89_metodos_data_hora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_metodos_data_hora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="89_traducao_texto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\renat\PycharmProjects\guppe\89_traducao_texto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.89_metodos_data_hora" />
+        <item itemvalue="Python.89_traducao_texto" />
+        <item itemvalue="Python.88_trabalhando_delta_data_hora" />
+        <item itemvalue="Python.87_manipulando_data_hora" />
         <item itemvalue="Python.86_json_pickle" />
-        <item itemvalue="Python.85_pickle" />
-        <item itemvalue="Python.84_escrevendo_csv" />
-        <item itemvalue="Python.83_lendo_arq_csv" />
-        <item itemvalue="Python.82_metodos_magicos" />
       </list>
     </recent_temporary>
   </component>
@@ -232,22 +231,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577713308155" />
-    <state width="1515" height="228" key="GridCell.Tab.0.bottom" timestamp="1581600266299">
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom" timestamp="1581858572409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581600266299" />
-    <state width="1515" height="228" key="GridCell.Tab.0.center" timestamp="1581600266299">
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581858572409" />
+    <state width="1515" height="228" key="GridCell.Tab.0.center" timestamp="1581858572409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581600266299" />
-    <state width="1515" height="228" key="GridCell.Tab.0.left" timestamp="1581600266299">
+    <state width="1515" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581858572409" />
+    <state width="1515" height="228" key="GridCell.Tab.0.left" timestamp="1581858572408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581600266299" />
-    <state width="1515" height="228" key="GridCell.Tab.0.right" timestamp="1581600266299">
+    <state width="1515" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581858572408" />
+    <state width="1515" height="228" key="GridCell.Tab.0.right" timestamp="1581858572409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581600266299" />
+    <state width="1515" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581858572409" />
     <state width="1515" height="156" key="GridCell.Tab.1.bottom" timestamp="1581426113053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
