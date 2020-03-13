@@ -67,11 +67,17 @@ lista7 = lista6.copy()
 print(lista7)
 
 # Podemos REMOVER ELEMENTO de uma lista -----------------------------------------------------------
-valorExcluido = lista7.pop()      # pop() - remove o ÚLTIMO ELEMENTO e também o retorna
+# pop() - remove o ÚLTIMO ELEMENTO e também o retorna
+valorExcluido = lista7.pop()
 print(f'{valorExcluido} excluído da lista7 - {lista7}')
 
-valorExcluido = lista7.pop(2)     # pop(índice) - remove o elemento do índice informado, deslocando para a esquerda
+# pop(índice) - remove o elemento do índice informado, deslocando para a esquerda
+valorExcluido = lista7.pop(2)
 print(f'{valorExcluido} excluído da lista7 - {lista7}')
+
+# remove() - obrigatório informar um elemento e não retorna nada
+lista7.remove(70)
+print(f'70 removido da lista7 - {lista7}')
 
 # Se não existir o índice no array será retornado erro
 

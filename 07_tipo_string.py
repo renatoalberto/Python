@@ -32,6 +32,12 @@ print(texto1.split())  # Divide palavras em uma lista
 print(texto1[0:4])    # Da posição 0 até antes da posição 4
 print(texto1[5:15])   # Da posição 5 até antes da posição 15
 
+nome = 'Renato'
+
+print(nome[1:7])  # enato [inicio, fim não contido]
+print(nome[-2:])  # to    [inicio de trás para frente, até o final]
+print(nome[:3])   # Ren   [primeira letra, as três primeiras]
+
 # split - Divide palavras em lista
 print(texto1.split()[0])  # Geek
 print(texto1.split()[1])  # University

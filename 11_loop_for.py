@@ -21,15 +21,21 @@ for item in umaLista:
 # -------------------------------------------------------------------------------------------------
 umRange = range(1, 10)
 for item in umRange:
-    print(item)
+    print(item, end=' - ')
+
+print()
 
 # -------------------------------------------------------------------------------------------------
 nome = 'Banco do Brasil'
 for tupla in enumerate(nome):  # enumerate retorna uma tupla(nome, valor)
-    print(f'{tupla} - {tupla[0]} - {tupla[1]}')
+    print(f'{tupla} - {tupla[0]} - {tupla[1]}', end=' - ')
+
+print()
 
 for indice, letra in enumerate(nome):
-    print(f'{indice}ª - {nome[indice]} ou {letra}')
+    print(f'{indice}ª - {nome[indice]} ou {letra}', end=' - ')
+
+print()
 
 for _, letra in enumerate(nome):  # quando não precisamos de um valor, descartamos com um '_'
     print(f'{letra}', end=' ')    # end é parâmetro do método print, que por default pula linha end="\n'

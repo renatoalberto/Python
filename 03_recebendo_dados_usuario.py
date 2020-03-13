@@ -1,7 +1,6 @@
 """
 recebendo dados do usuário
 input() - Todo dado recebido via input() é uma string
-
 """
 # Entrada de dados
 # input() Em 1 linha

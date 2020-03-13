@@ -8,7 +8,7 @@ Simplificando, pense em raise como sendo útil para que possamos criar nossas pr
 Forma geral de utilização :
 raise TipoDoErro('mensagem de erro')
 
-Obs: O raise, assim como o return, finaliza a função. Ou seja, nada após o rase é executado.
+Obs: O raise, assim como o return, finaliza a função. Ou seja, nada após o raise é executado.
 """
 # Demonstrando
 # raise ValueError('Valor incorreto.')
