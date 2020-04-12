@@ -48,7 +48,7 @@ class AtividadesTeste(unittest.TestCase):
 
         # metodologia TDD - enquanto método eh_engracada não foi implementado, o assertFalse sempre será ok
         # porque None = False
-        self.assertFalse(eh_engracada('Sérgio Malandro'))
+        self.assertFalse(eh_engracada('Sérgio Malandro'), 'Sérgio Malandro não deveria ser engraçado.')
 
         self.assertTrue(eh_engracada('Jim Carrey'), 'Jim Carrey deveria ser engraçado.')
 

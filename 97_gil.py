@@ -28,7 +28,7 @@ def contagem_regressiva(n):
         n -= 1
 
 
-CONTADOR = 50000000
+CONTADOR = 50_000_000
 
 tempo = timeit.timeit(functools.partial(contagem_regressiva, CONTADOR), number=1)
 print(f'Tempo de processamento em segundos single thread - {tempo}')  # 5.902446299999999
