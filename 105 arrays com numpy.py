@@ -3,6 +3,9 @@
 Created on Thu Jul 30 23:11:28 2020
 
 @author: renato
+
+Instalaçao          -  pip install numpy
+no jupyter notebook - !pip install numpy
 """
 
 import numpy as np
@@ -13,6 +16,9 @@ data = np.array([2, 4, 6, 8, 10])
 print(data)          # [ 2  4  6  8 10]
 print(type(data))    # <class 'numpy.ndarray'>
 print(data.shape)    # (5,)
+
+# Verificação do tipo do array numpy
+print(data.dtype)    # int32
 
 # Criando array informando quantidade de elementos
 data = np.arange(15)
@@ -44,10 +50,15 @@ data = np.ones((3, 4))
 
 print(data)          # [[1. 1. 1. 1.] [1. 1. 1. 1.] [1. 1. 1. 1.]]
 
+# Criando matriz 3x4 numpy de valores informado
+data = np.full((3, 4), 3.14)
+
+print(data)          # [[3.14 3.14 3.14 3.14] [3.14 3.14 3.14 3.14] [3.14 3.14 3.14 3.14]]
+
 # Criando matriz 3x4 numpy de espaços vazios
 data = np.empty((3, 4))
 
-print(data)          # retorno com totação científica próximo a zero
+print(data)          # retorno array com lixo de memória, vantagem de ser muito rápida
 
 # Criando matriz 3x4 numpy de valores negativos
 data = np.arange(10) * -1

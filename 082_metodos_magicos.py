@@ -9,6 +9,7 @@ Métodos mágicos são todos os métodos que utilizam dunder "duplo underline" d
 # dunder del  -> permite realizar ações antes da deleção física
 # dunder add  -> ajusta comportamento da adição (+)
 # dunder mul  -> ajusta comportamento da multiplicação (*)
+# dunder eq   -> avaliação de igualdade (==)
 
 """
 
@@ -35,11 +36,19 @@ class Livro:
         return f'{self} & {outro_livro}'
 
     def __mul__(self, quantidade):
-        return [f'{contador+1}ª {self}' for contador in range(quantidade)]
+        return [f'{contador + 1}ª {self}' for contador in range(quantidade)]
+
+    def __eq__(self, outro):
+        if isinstance(outro, Livro):
+            if (self.titulo == outro.titulo and
+                    self.autor == outro.autor):
+                return True
+        return False
 
 
 livro1 = Livro('Python Rocks', 'Geek', 400)
 livro2 = Livro('Inteligência Artificial com Python', 'Geek university', 350)
+livro3 = Livro('Inteligência Artificial com Python', 'Geek university', 350)
 
 # __str__   -> representação do objeto, tem prioridade sobre o repr
 # __repr__  -> representação do objeto, caso str não seja declarado
@@ -68,3 +77,7 @@ print(livro1 + livro2)
 # __mul__ -> ajusta comportamento da multiplicação
 #   - retorna lista repetindo a representação com __str__ acompanhado de um contador
 print(livro1 * 3)
+
+# __eq__ -> ajusta comportamento da comparação de igualdade
+#   - avaliação de igualdade entre classes
+print(livro2 == livro3)

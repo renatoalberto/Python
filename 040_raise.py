@@ -23,7 +23,7 @@ ValueError: Valor incorreto.
 
 # Exemplo real
 def cores(texto, cor):
-    tuplaCores = 'amarelo', 'azul', 'preto', 'vermelho'
+    tupla_cores = 'amarelo', 'azul', 'preto', 'vermelho'
     if type(texto) is not str:
         raise TypeError('Texto deve ser uma string.')
     if type(cor) is not str:

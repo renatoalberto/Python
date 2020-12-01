@@ -36,4 +36,4 @@ class ContaCorrente:
 
 
 civic = Carro()
-print(type(civic))  # <class '__main__.Lampada'>
+print(type(civic))  # <class '__main__.Carro'>

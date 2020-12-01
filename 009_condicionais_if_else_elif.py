@@ -13,3 +13,12 @@ elif idade < 60:
     print(f'Adulto, {idade} anos')
 else:
     print(f'Idoso, {idade} anos')
+
+
+# Em uma linha, instrução mais enxuta, condição in line
+idade1 = 10
+idade2 = 20
+
+mais_novo = idade1 if idade1 < idade2 else idade2
+
+print(f'Mais novo {mais_novo}')  # 10

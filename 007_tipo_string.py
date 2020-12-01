@@ -1,5 +1,5 @@
 """
-Tipo String
+Tipo String - São imutáveis
 """
 texto1 = 'Renato'            # Aspas simples - Mais comum
 texto2 = "Raíssa"            # Aspas duplas
@@ -23,10 +23,11 @@ print(texto1)
 # Métodos string
 #         012345678901234
 texto1 = 'Geek University'
-print(texto1.upper())  # Maiúsculo
-print(texto1.lower())  # Minúsculo
-print(texto1.title())  # Primeira letra em maiúsculo
-print(texto1.split())  # Divide palavras em uma lista
+print(texto1.upper())       # Maiúsculo
+print(texto1.lower())       # Minúsculo
+print(texto1.title())       # Primeira letra em maiúsculo
+print(texto1.capitalize())  # Primeira letra da primeira palavra em maiúsculo
+print(texto1.split())       # Divide palavras em uma lista
 
 # Escreve parte do texto - Slice de string
 print(texto1[0:4])    # Da posição 0 até antes da posição 4

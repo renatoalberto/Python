@@ -2,18 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/100_type_hinting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/101_chacagem_tipos_MyPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/102_annotations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/103_tipos_em_comentarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/104_jogo_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/104_jogo_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/104_tipos_em_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98_tipagem_de_dados_Dinamica_x_Estatica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/99_tipagem_de_dado_Duck_Typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106_pandas/.ipynb_checkpoints/aula05_introducao_ao_pandas-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106_pandas/aula05_introducao_ao_pandas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning/.ipynb_checkpoints/05_50_Iris_Dataset-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning/.ipynb_checkpoints/50_65_Digits Dataset-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meu Array Numpy.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/93_teste_unittest/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/93_teste_unittest/testes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/97_gil.py" beforeDir="false" afterPath="$PROJECT_DIR$/97_gil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tipo_float.py" beforeDir="false" afterPath="$PROJECT_DIR$/005_tipo_float.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/006_tipo_booleano.py" beforeDir="false" afterPath="$PROJECT_DIR$/006_tipo_booleano.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_tipo_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/007_tipo_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009_condicionais_if_else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/009_condicionais_if_else_elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/011_loop_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/011_loop_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/012_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/012_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/018_conjuntos.py" beforeDir="false" afterPath="$PROJECT_DIR$/018_conjuntos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/024_funcoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/024_funcoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/025_list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/025_list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/040_raise.py" beforeDir="false" afterPath="$PROJECT_DIR$/040_raise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/042_try_except_else_finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/042_try_except_else_finally.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/046_modulos_customisados.py" beforeDir="false" afterPath="$PROJECT_DIR$/046_modulos_customisados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/071_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/071_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/082_metodos_magicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/082_metodos_magicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/105 arrays com numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/105 arrays com numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning/05_50_Iris_Dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/05_50_Iris_Dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning/50_65_Digits Dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/50_65_Digits Dataset.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/95_antes_apos_hooks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RecentsManager">
@@ -54,8 +66,8 @@
       <recent name="C:\Users\renat\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.104_jogo_v2">
-    <configuration name="102_annotations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.080_method_resolution_order">
+    <configuration name="071_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/102_annotations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/071_classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="103_tipos_em_comentarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="080_method_resolution_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/103_tipos_em_comentarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/080_method_resolution_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="104_jogo_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="082_metodos_magicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/104_jogo_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/082_metodos_magicos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="104_jogo_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="105 arrays com numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/104_jogo_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105 arrays com numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="104_tipos_em_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="106_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106_pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/104_tipos_em_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106_pandas/106_pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.104_jogo_v2" />
-        <item itemvalue="Python.104_jogo_v1" />
-        <item itemvalue="Python.104_tipos_em_python" />
-        <item itemvalue="Python.103_tipos_em_comentarios" />
-        <item itemvalue="Python.102_annotations" />
+        <item itemvalue="Python.080_method_resolution_order" />
+        <item itemvalue="Python.082_metodos_magicos" />
+        <item itemvalue="Python.071_classes" />
+        <item itemvalue="Python.106_pandas" />
+        <item itemvalue="Python.105 arrays com numpy" />
       </list>
     </recent_temporary>
   </component>
@@ -223,66 +235,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581594499380">
+    <state x="361" y="71" width="814" height="728" key="#Intentions" timestamp="1606263603911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="486" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581594499380" />
-    <state width="556" height="466" key="DebuggerActiveHint" timestamp="1580780314366">
+    <state x="361" y="71" width="814" height="728" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1606263603911" />
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom" timestamp="1606268613834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="556" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580780314366" />
-    <state width="1899" height="301" key="GridCell.Tab.0.bottom" timestamp="1586657219299">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583807216045" />
-    <state width="1899" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586657219299" />
-    <state width="1899" height="301" key="GridCell.Tab.0.center" timestamp="1586657219299">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583807216043" />
-    <state width="1899" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586657219299" />
-    <state width="1899" height="301" key="GridCell.Tab.0.left" timestamp="1586657219299">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583807216043" />
-    <state width="1899" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586657219299" />
-    <state width="1899" height="301" key="GridCell.Tab.0.right" timestamp="1586657219299">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583807216045" />
-    <state width="1899" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586657219299" />
-    <state width="1515" height="156" key="GridCell.Tab.1.bottom" timestamp="1581426113053">
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
+    <state width="1515" height="178" key="GridCell.Tab.0.center" timestamp="1606268613834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
-    <state width="1515" height="156" key="GridCell.Tab.1.center" timestamp="1581426113053">
+    <state width="1515" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
+    <state width="1515" height="178" key="GridCell.Tab.0.left" timestamp="1606268613834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
-    <state width="1515" height="156" key="GridCell.Tab.1.left" timestamp="1581426113053">
+    <state width="1515" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
+    <state width="1515" height="178" key="GridCell.Tab.0.right" timestamp="1606268613834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
-    <state width="1515" height="156" key="GridCell.Tab.1.right" timestamp="1581426113053">
+    <state width="1515" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
+    <state x="440" y="153" width="971" height="582" key="find.popup" timestamp="1606268063492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="156" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581426113053" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1582200943662">
+    <state x="440" y="153" width="971" height="582" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606268063492" />
+    <state x="822" y="105" width="672" height="678" key="search.everywhere.popup" timestamp="1604450826581">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582200943662" />
-    <state x="440" y="23" width="802" height="777" key="find.popup" timestamp="1581424010437">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="440" y="23" width="802" height="777" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581424010437" />
-    <state x="510" y="57" key="refactoring.ChangeSignatureDialog" timestamp="1579685906923">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="510" y="57" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1579685906923" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580993660946">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580993660946" />
+    <state x="822" y="105" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604450826581" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

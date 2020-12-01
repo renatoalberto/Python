@@ -1,10 +1,12 @@
 """"
 Conjuntos - tudo o que faz referência das teorias dos conjuntos em matemática
+Documentação - https://docs.python.org/3/library/stdtypes.html#set
 
 - Em Python os conjuntos são chamados de Sets
 - Sets não possuem duplicados
 - Sets não possuem valores ordenados
 - Sets não são indexados
+- Armazena elementos hasheado - hash() (Exemplo armazena tupla imutavel, não armazena lista)
 
 Conjuntos são bons para:
 - Armazenar elementos, sem se preocupar com a classificação
@@ -24,6 +26,7 @@ print(conj)
 print(type(conj))
 
 # Forma 1 ----------------------------- Mais comum
+# deve conter elementos dentro das chaves, chaves vazias é um dicionario
 conj = {1, 2, 3, 3, 3, 4, 5, 5, 5, 6, 7}         # valores repetidos são ignorados
 
 print(conj)
@@ -69,7 +72,7 @@ print(type(conj))
 
 # Iterando sobre conjuntos ------------------------------------------------------------------------
 for valor in conj:
-    print(valor, end= ' ')
+    print(valor, end=' ')
 print()
 
 # Uso interessante de conjuntos -------------------------------------------------------------------

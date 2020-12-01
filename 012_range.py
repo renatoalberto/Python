@@ -3,7 +3,6 @@ Ranges
 - Precisamos conhecer o loop for para trabalhar com ranges
 - Precisamos conhecer o range para trabalhar melhor com loops for
 
-
 """
 # range(valor_de_parada)
 # início do 0 até o valor de parada não inclusivo

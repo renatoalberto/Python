@@ -16,7 +16,7 @@ Dica de onde e quando tratar o código:
 try:
     num = int(input('Informe um número:'))
 except ValueError as err1:
-    print(f'Caracter inválido, digite apensa números: {err1}')
+    print(f'Caracter inválido, digite apenas números: {err1}')
 else:
     print(f'Você digitou o número : {num}')
 finally:

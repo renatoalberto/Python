@@ -230,3 +230,29 @@ minha_funcao('Renato', 36, 5, 4, 3, casado=True)
 minha_funcao('Renato', 36, 5, 4, 3, eu='Nao', voce='Vai')
 minha_funcao('Renato', 36, 5, 4, 3, casado=True, eu='Nao', voce='Vai')
 minha_funcao('Renato', 36, 5, 4, 3, eu='Nao', voce='Vai')
+
+
+# Definindo tipagem dos parâmetros ----------------------------------------------------------------
+# Somente para o compilador
+def ano_nascimento(idade: int):
+    ano = 2020
+
+    if (type(idade) == int):
+        ano -= idade
+        print(ano)
+    else:
+        print('idade não é um número')
+
+
+ano_nascimento(37)
+ano_nascimento("37")  # Compilador sinaliza ma permite executar
+
+
+# Definindo tipo de retorno -----------------------------------------------------------------------
+# Somente para o compilador
+def retorna_ano_nascimento(idade: int) -> int:
+    return 2020 - idade
+
+
+ano_nascimento = retorna_ano_nascimento(37)
+print(f"Meu ano de nascimento é - {ano_nascimento}")

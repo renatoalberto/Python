@@ -15,6 +15,10 @@ print(res)
 res = [numero / 2 for numero in numeros]
 print(res)
 
+# For encadeado
+lista = [(linha, coluna) for linha in range(3) for coluna in range(3)]
+print(f'For encadeado - {lista}')  # [(0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2)]
+
 
 # Podemos utilizar função -------------------------------------------------------------------------
 def quadrado_do_numero(valor):
