@@ -8,7 +8,7 @@ Len, ABS, Sum, Round
 # sum() - recebe como parâmetro um iterável e retorna a soma de seus elementos, incluindo "o valor inicial" default zero
 
 # round() - retorna um número arredondado para n dígitos de precisão após a casa decimal. Se precisão não informada
-            retorna o inteiro mais próximo da entrada
+            retorna para o valor par mais próximo
 """
 # len() -------------------------------------------------------------------------------------------
 print('# len() -------------------------')
@@ -45,3 +45,8 @@ print(round(10.5))   # retorna 10
 print(round(10.6))   # retorna 11
 print(round(1.2121212, 2))   # retorna 1.21
 print(round(1.2199999, 2))   # retorna 1.22
+
+# ATENÇÃO - O Python 3 usa uma forma de arredondar chamado de Banker's rounding e
+# sempre arredonda para o valor par mais próximo.
+print(round(10.5))   # retorna 10
+print(round(9.5))    # retorna 10

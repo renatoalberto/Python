@@ -1,5 +1,13 @@
 """
 Estruturas condicionais: if, else, elif
+
+Seguem todas as operadores de comparação:
+< - menor que
+> - maior que
+<= - menor ou igual a
+>= - maior ou igual a
+== - igual a
+!= - diferente de
 """
 idade = 11
 
