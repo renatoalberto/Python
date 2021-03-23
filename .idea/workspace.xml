@@ -2,14 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula IA 07 prática/.ipynb_checkpoints/price_prediction_example_unmodified-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula IA 07 prática/price_prediction_example_unmodified.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/106_matplotlib-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/107_Seaborn-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/108_KNN_Classificação-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/109_KNN_Regressão-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/110_Redes_Neurais_Artificiais-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/111_Redes_Neurais_Sklearn -checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106_matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_Seaborn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/Biblioteca db.py-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/Biblioteca xlrd e xlwt-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/pandas_comandos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/Biblioteca db.py.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/Biblioteca xlrd e xlwt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/logs.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/pandas_comandos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/107_pandas/total_populacao_pernambuco.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/108_KNN_Classificação.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/109_KNN_Regressão.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/110_Redes_Neurais_Artificiais.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/111_Redes_Neurais_Sklearn .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/111_pybrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balance-scale.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haberman.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sin-01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/009_condicionais_if_else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/009_condicionais_if_else_elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/037_len_abs_sum_round.py" beforeDir="false" afterPath="$PROJECT_DIR$/037_len_abs_sum_round.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/044_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/044_random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/047_modulos_externos.py" beforeDir="false" afterPath="$PROJECT_DIR$/047_modulos_externos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/105 arrays com numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/105_arrays_com_numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106_pandas/.ipynb_checkpoints/aula05_introducao_ao_pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/aula05_introducao_ao_pandas-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106_pandas/106_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/106_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106_pandas/aula05_introducao_ao_pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/aula05_introducao_ao_pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meu Array Numpy.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Meu Array Numpy.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/.ipynb_checkpoints/Limpeza de Campos com Pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/Limpeza de Campos com Pandas-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/Limpeza de Campos com Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/Limpeza de Campos com Pandas.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,102 +66,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\renat\PycharmProjects\guppe\95_antes_apos_hooks" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\renat\OneDrive\Área de Trabalho\Udemy\Curso de programação em Phyton - Do básico ao avançado\106_pandas" />
       <recent name="C:\Users\renat\PycharmProjects\guppe\93_teste_unittest" />
       <recent name="C:\Users\renat\PycharmProjects\guppe" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\renat\PycharmProjects\guppe\95_antes_apos_hooks" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.037_len_abs_sum_round">
-    <configuration name="001_teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001_teste.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="009_condicionais_if_else_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/009_condicionais_if_else_elif.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="013_loop_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/013_loop_while.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="037_len_abs_sum_round" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/037_len_abs_sum_round.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.044_random">
     <configuration name="044_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,13 +100,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="101_chacagem_tipos_MyPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/101_chacagem_tipos_MyPy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="105_arrays_com_numpy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105_arrays_com_numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="106_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106_pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106_pandas/106_pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="111_pybrain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111_pybrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.037_len_abs_sum_round" />
         <item itemvalue="Python.044_random" />
-        <item itemvalue="Python.013_loop_while" />
-        <item itemvalue="Python.009_condicionais_if_else_elif" />
-        <item itemvalue="Python.001_teste" />
+        <item itemvalue="Python.105_arrays_com_numpy (1)" />
+        <item itemvalue="Python.111_pybrain" />
+        <item itemvalue="Python.101_chacagem_tipos_MyPy" />
+        <item itemvalue="Python.106_pandas" />
       </list>
     </recent_temporary>
   </component>
@@ -223,35 +251,59 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" width="814" height="728" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1606263603911" />
-    <state width="1899" height="239" key="GridCell.Tab.0.bottom" timestamp="1609426731745">
+    <state x="633" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610479301064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610479301064" />
+    <state width="1899" height="382" key="GridCell.Tab.0.bottom" timestamp="1614560050656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609426731745" />
-    <state width="1899" height="239" key="GridCell.Tab.0.center" timestamp="1609426731744">
+    <state width="1899" height="382" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
+    <state width="1899" height="382" key="GridCell.Tab.0.center" timestamp="1614560050656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609426731744" />
-    <state width="1899" height="239" key="GridCell.Tab.0.left" timestamp="1609426731744">
+    <state width="1899" height="382" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
+    <state width="1899" height="382" key="GridCell.Tab.0.left" timestamp="1614560050656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609426731744" />
-    <state width="1899" height="239" key="GridCell.Tab.0.right" timestamp="1609426731745">
+    <state width="1899" height="382" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
+    <state width="1899" height="382" key="GridCell.Tab.0.right" timestamp="1614560050656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609426731745" />
-    <state x="550" y="193" width="1214" height="735" key="find.popup" timestamp="1609425534375">
+    <state width="1899" height="382" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
+    <state width="1899" height="210" key="GridCell.Tab.1.bottom" timestamp="1610489936400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="210" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
+    <state width="1899" height="210" key="GridCell.Tab.1.center" timestamp="1610489936400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="210" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
+    <state width="1899" height="210" key="GridCell.Tab.1.left" timestamp="1610489936400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="210" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
+    <state width="1899" height="210" key="GridCell.Tab.1.right" timestamp="1610489936400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="210" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
+    <state x="843" y="312" key="SettingsEditor" timestamp="1610399933387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="843" y="312" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610399933387" />
+    <state x="550" y="193" width="1214" height="735" key="find.popup" timestamp="1614019772454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="153" width="971" height="582" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606268063492" />
-    <state x="550" y="193" width="1214" height="735" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609425534375" />
-    <state x="822" y="105" width="672" height="678" key="search.everywhere.popup" timestamp="1604450826581">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="550" y="193" width="1214" height="735" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614019772454" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614545310875">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="822" y="105" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604450826581" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614545310875" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
