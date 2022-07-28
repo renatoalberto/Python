@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1f273d-f05a-41d8-90ca-4e9765595752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/106_matplotlib-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/107_Seaborn-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/108_KNN_Classificação-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/109_KNN_Regressão-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/110_Redes_Neurais_Artificiais-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/111_Redes_Neurais_Sklearn -checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/106_matplotlib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_Seaborn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/Biblioteca db.py-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/Biblioteca xlrd e xlwt-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/pandas_comandos-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/Biblioteca db.py.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/Biblioteca xlrd e xlwt.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/logs.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/pandas_comandos.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/107_pandas/total_populacao_pernambuco.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/108_KNN_Classificação.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/109_KNN_Regressão.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/110_Redes_Neurais_Artificiais.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/111_Redes_Neurais_Sklearn .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/111_pybrain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balance-scale.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haberman.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sin-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/047_modulos_externos.py" beforeDir="false" afterPath="$PROJECT_DIR$/047_modulos_externos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/105 arrays com numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/105_arrays_com_numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106_pandas/.ipynb_checkpoints/aula05_introducao_ao_pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/aula05_introducao_ao_pandas-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106_pandas/106_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/106_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106_pandas/aula05_introducao_ao_pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/aula05_introducao_ao_pandas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meu Array Numpy.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Meu Array Numpy.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/.ipynb_checkpoints/Limpeza de Campos com Pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/.ipynb_checkpoints/Limpeza de Campos com Pandas-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Limpeza de Campos com Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/107_pandas/Limpeza de Campos com Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Alura_Python_para_Data_Science_Primeiros_Passos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001_Alura_Python_para_Data_Science_Primeiros_Passos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/108 Alura - Data Science/02 - Estatística com Python parte 1 Frequências e Medidas/Curso de Estatística/Curso de Estatística - Aulas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/108 Alura - Data Science/02 - Estatística com Python parte 1 Frequências e Medidas/Curso de Estatística/Curso de Estatística - Aulas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula IA 07 prática/price_prediction_example_unmodified.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Aula IA 07 prática/price_prediction_example_unmodified.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +23,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1VfZv0HAAu5rdhhcOxvxqJIwAiX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/renat/Desktop/Python&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\renat\OneDrive\Área de Trabalho\Udemy\Curso de programação em Phyton - Do básico ao avançado\106_pandas" />
@@ -206,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="1" Folder0="C:\Users\renat\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="1" CustomDictionary0="C:\Users\renat\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="1" Folder0="C:\Users\renat\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="1" CustomDictionary0="C:\Users\renat\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -235,9 +208,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -245,65 +216,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="71" width="814" height="728" key="#Intentions" timestamp="1606263603911">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="71" width="814" height="728" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1606263603911" />
-    <state x="633" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610479301064">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="633" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610479301064" />
-    <state width="1899" height="382" key="GridCell.Tab.0.bottom" timestamp="1614560050656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="382" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
-    <state width="1899" height="382" key="GridCell.Tab.0.center" timestamp="1614560050656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="382" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
-    <state width="1899" height="382" key="GridCell.Tab.0.left" timestamp="1614560050656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="382" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
-    <state width="1899" height="382" key="GridCell.Tab.0.right" timestamp="1614560050656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606268613834" />
-    <state width="1899" height="382" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614560050656" />
-    <state width="1899" height="210" key="GridCell.Tab.1.bottom" timestamp="1610489936400">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="210" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
-    <state width="1899" height="210" key="GridCell.Tab.1.center" timestamp="1610489936400">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="210" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
-    <state width="1899" height="210" key="GridCell.Tab.1.left" timestamp="1610489936400">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="210" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
-    <state width="1899" height="210" key="GridCell.Tab.1.right" timestamp="1610489936400">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="210" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610489936400" />
-    <state x="843" y="312" key="SettingsEditor" timestamp="1610399933387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="843" y="312" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610399933387" />
-    <state x="550" y="193" width="1214" height="735" key="find.popup" timestamp="1614019772454">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="153" width="971" height="582" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606268063492" />
-    <state x="550" y="193" width="1214" height="735" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614019772454" />
-    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614545310875">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614545310875" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
